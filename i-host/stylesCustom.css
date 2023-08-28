@@ -1,0 +1,22 @@
+body {
+  background-image: url("https://www.i-host.gr/Content/img/hotels/home.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Courier New", Courier, monospace !important;
+}
+
+.form {
+  color: blue;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 0.5em;
+  border: 2px solid rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(10px);
+}
+
+.top-region button {
+  color: white;
+}
+
+.top-region .selected-language {
+  color: white !important;
+}
